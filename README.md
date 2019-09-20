@@ -1,15 +1,21 @@
 # 🎈 🎉 Marketing Analytics 🎊 🎈 📚 
 
-"Read enough so you start developing intuitions and then trust your intuitions and go for it!" 📚 ​ Prof. Geoffrey Hinton, University of Toronto  
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
+Pada Repository ini, terdapat beberapa metode dan algoritma yang biasa digunakan pada bidang Marketing/
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
 
-Contents
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
+# Contents
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
 
-- Deep Learning (Deep Neural Networks) ⤵️
-- Probabilistic Graphical Models ⤵️
-- Machine Learning Fundamentals ⤵️
-- Natural Language Processing ⤵️
-- Optimization for Machine Learning ⤵️	
+- Market Basket Analysis 
+- Collaborative Filtering 
+- Content Based Filtering 
+- Hybrid Filtering 
+- A/B Testing 	
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+# Story Line
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+- Untuk kasus Market Basket Analysis, terdapat seorang data scientist bernama Slamet yang bekerja untuk Burger Star.
+- Untuk kasus sisanya, ada seorang data scientis bernama Rangga, manager Rangga yang bernama Asep, Anak dari Asep bernama Cinta dan tetangga dari Asep bernama Ucup.
